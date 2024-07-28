@@ -27,11 +27,11 @@ Alternatively, you can open the notebook in Google Colab, which provides a ready
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
+    git clone https://github.com/Abhaypra/Image_Detection_Using_CNN.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd your-repo-name
+    cd Image_Detection_Using_CNN
     ```
 3. Open the Jupyter Notebook:
     ```bash
